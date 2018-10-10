@@ -19,7 +19,7 @@ const action = async (context) => {
 }
 
 uploadAsset = (spaceId, environmentId, fileStream) => {
-  client.getSpace('<space_id>')
+  return client.getSpace('<space_id>')
     .then((space) => space.getEnvironment('<environment-id>'))
     .then((environment) => environment.createAssetFromFiles({
       fields: {
