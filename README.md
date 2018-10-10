@@ -1,2 +1,2 @@
-# kakp-contentful
+# Kap-contentful
 Kap Contentful Plugin
