@@ -1,0 +1,11 @@
+{
+  "name": "kap-contentful",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Khaledgarbaya/kap-contentful.git",
+  "author": "Khaled Garbaya <khaledgarbaya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
